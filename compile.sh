@@ -1,2 +1,2 @@
 #!/bin/sh
-g++ -lcurses -o bin main.cpp
+g++ -lcurses -O3 -o MothTyper main.cpp 

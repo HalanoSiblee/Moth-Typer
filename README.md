@@ -1,5 +1,5 @@
 # Moth-Typer
-Moth typer is hacker typer like which input file unit as arg and type it char by char as you press any key
+Moth typer is hacker typer like which input file unit as arg and type it char by char as you press any key<br>
 You can use it like this
 ```bash
 $ MothTyper Main.cpp
